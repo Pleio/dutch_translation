@@ -1,0 +1,7 @@
+{
+    "name": "coldtrick/dutch_translation",
+    "type": "elgg-plugin",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
